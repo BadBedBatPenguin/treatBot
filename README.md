@@ -1,2 +1,2 @@
-# treatBot
-Bot for selling pet treats
+# ibot
+Bot for selling goods
